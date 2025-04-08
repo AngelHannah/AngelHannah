@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelHannah aka Hannah
-- 👀 I’m interested in coding with C#, learning as I go, finding creative solutions, and making and playing video games(mostly RPG)
-- 🌱 I’m currently learning C#, Java, Javascript, CSS, and HTML. I also dabble in Unity, GameMaker Studio, and various data-related projects
+- 👀 I’m interested in making, breaking and coding with C#, learning as I go, finding creative solutions, and maybe making and playing video games(mostly RPG)
+- 🌱 I’m currently learning C#, Java, Javascript, CSS, HTML5 and a myriad of other languages and frameworks. I also dabble in Unity, GameMaker Studio, and various data-related projects.
 - 💞️ I’m looking to collaborate on anything that would help me learn more.
 - 📫 How to reach me: By email at angelhannah63@gmail.com
 
